@@ -1,5 +1,5 @@
-#background {
-    background: url(assets/images/background-image.jpg);
+body {
+    background-image: url(assets/images/background-image.jpg);
     background-repeat: no-repeat;
     background-size: auto;
 }
