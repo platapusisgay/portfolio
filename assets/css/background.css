@@ -49,9 +49,25 @@
     background-image: url(../images/plsloadgoddamnit.jpeg);
     background-size:cover;
     background-position: center;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    line-height: 1.15;
+    font-family: 'Times New Roman', Times, serif;
 }
+html {
+  line-height: 0.7;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+@media only screen and (min-width: 550px)
+  {
+    
+  }
+  
+
 h1 {
-    padding-top: 15%;
+    padding-top: 25%;
     font-family: Dancing Script, cursive;
     font-optical-sizing: auto;
     font-size: 15vb;
@@ -59,6 +75,7 @@ h1 {
     font-style: normal;
     text-align: center;
     /*animation: lights 5s 750ms linear infinite;*/
+    user-select: none;
 }
 h2 {
     font-family: Montserrat, sans-serif;
@@ -68,10 +85,14 @@ h2 {
     font-size: 5vb;
     text-align: center;
     /*animation: lights 5s 750ms linear infinite;*/
+    user-select: none;
 }
 h3 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: small;
+    font-family: Montserrat, sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
     text-align: end;
     /*animation: lights 5s 750ms linear infinite;*/
+    user-select: none;
 }
