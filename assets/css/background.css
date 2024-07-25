@@ -61,7 +61,10 @@ h1 {
     /*animation: lights 5s 750ms linear infinite;*/
 }
 h2 {
-    font-family:serif;
+    font-family: Montserrat, sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
     font-size: 5vb;
     text-align: center;
     /*animation: lights 5s 750ms linear infinite;*/
