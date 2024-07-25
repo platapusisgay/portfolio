@@ -46,10 +46,9 @@
     
   }
   body {
-    background-image: url(assets/img/plsloadgoddamnit.jpeg);
-    background-size: auto;
+    background-image: url(../images/plsloadgoddamnit.jpeg);
+    background-size: contain;
     background-position: center;
-    height: fit-content;
 }
 h1 {
     padding-top: 15%;
