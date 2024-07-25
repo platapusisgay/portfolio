@@ -47,7 +47,7 @@
   }
   body {
     background-image: url(../images/plsloadgoddamnit.jpeg);
-    background-size: contain;
+    background-size:cover;
     background-position: center;
 }
 h1 {
