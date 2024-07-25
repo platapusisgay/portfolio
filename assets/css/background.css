@@ -46,11 +46,10 @@
     
   }
   body {
-    background-image: url(assets/img/plsloadgoddamnit.jpg);
-    background-color: black;
-    /*background-size: auto;
+    background-image: url(assets/img/plsloadgoddamnit.jpeg);
+    background-size: auto;
     background-position: center;
-    height: fit-content;*/
+    height: fit-content;
 }
 h1 {
     padding-top: 15%;
@@ -60,17 +59,17 @@ h1 {
     font-weight: 700;
     font-style: normal;
     text-align: center;
-    animation: lights 5s 750ms linear infinite;
+    /*animation: lights 5s 750ms linear infinite;*/
 }
 h2 {
     font-family:serif;
     font-size: 5vb;
     text-align: center;
-    animation: lights 5s 750ms linear infinite;
+    /*animation: lights 5s 750ms linear infinite;*/
 }
 h3 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: small;
     text-align: end;
-    animation: lights 5s 750ms linear infinite;
+    /*animation: lights 5s 750ms linear infinite;*/
 }
